@@ -1,0 +1,16 @@
+body { 
+    padding: 0;
+    margin: 0;
+}
+
+.background { 
+    height: 100vh;
+}
+
+.clock-date { 
+    padding-top: 50vh;
+}
+
+.ampm-second { 
+    padding: 0;
+}
